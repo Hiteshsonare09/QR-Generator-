@@ -1,7 +1,7 @@
 # <a href="(https://qrgeneratorbthitu.netlify.app/)" target="_blank">Simple QR Code Generator</a>
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]((https://qrgeneratorbthitu.netlify.app/))
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://qrgeneratorbthitu.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Hitesh%20Sonare-purple.svg)](https://www.instagram.com/hituuu.09)
 
  
