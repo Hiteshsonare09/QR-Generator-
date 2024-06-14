@@ -2,7 +2,7 @@
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]((https://qrgeneratorbthitu.netlify.app/))
-[![Author](https://img.shields.io/badge/Author-Hitesh%20Sonare-purple.svg)](https://www.instagram.com/@hituuu.09)
+[![Author](https://img.shields.io/badge/Author-Hitesh%20Sonare-purple.svg)](https://www.instagram.com/hituuu.09)
 
  
 ![Screenshot of Website](https://github.com/vinodjangid07/QR-Generator/assets/86096184/a9ab9933-059a-47f1-a551-0de70716514c)
